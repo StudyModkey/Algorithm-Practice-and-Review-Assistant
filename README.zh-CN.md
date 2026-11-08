@@ -1,10 +1,10 @@
-# 题目复习助手 · Problem Review
+# 题目复习助手
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 为什么题目刷了老是记不住！ \
 英语单词背诵都这么科学，我们刷题也得跟上！ \
-为你而生的刷题科学记忆软件，每天提醒你今天该刷什么，从此让面试官吓得瘫在椅子上！ \
+为你而生的刷题科学记忆软件，每天提醒你今天该刷什么，从此让面试官吓得瘫在椅子上！
 
 <img width="1220" height="898" alt="download" src="https://github.com/user-attachments/assets/172bf0bc-5ce2-44c0-8af2-5c00bf65c131" />
 
