@@ -1,6 +1,6 @@
 # Problem Review
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README_en.md) | [简体中文](README.md)
 
 A small, offline Windows app for revisiting coding problems whose solutions you understood but could not solve independently.
 
