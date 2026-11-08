@@ -1,6 +1,6 @@
 # 题目复习助手
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README_en.md) | [简体中文](README.md)
 
 **为什么题目刷了老是记不住！ \
 英语单词背诵都这么科学，我们刷题也得跟上！ \
